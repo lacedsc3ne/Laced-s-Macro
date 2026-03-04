@@ -4,9 +4,13 @@ Features
 
 Multiple independent outputs, each with their own key, CPS, and click mode
 Click modes: Standard, Double, Triple, Burst, Butterfly, Drag, Jitter
+
 Hold or toggle activation
+
 Macro recorder with AHK export
+
 Game profiles that auto-switch when your target window gains focus
+
 11 themes, custom backgrounds, custom accent color
 
 Requirements
