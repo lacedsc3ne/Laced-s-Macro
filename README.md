@@ -16,7 +16,7 @@
 ### Laced's Macro
 
 <p> Windows macro with a custom DirectX 11 UI<br/>
-<sub>multi-output · Clicking modes · game profiles · macro recorder · 10,000 CPS</sub></p>
+<sub>multi-output · clicking modes · game profiles · macro recorder · 10,000 CPS</sub></p>
 
 <br/>
 
