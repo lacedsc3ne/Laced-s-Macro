@@ -1,10 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:1a1a3e,100:4f6ef7&height=140&section=header&text=lacedsc3ne&fontColor=ffffff&fontSize=36&fontAlignY=65&desc=windows%20software%20%C2%B7%20c%2B%2B%20%C2%B7%20directx%2011&descAlignY=85&descSize=13&descColor=8899cc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:1a1a3e,100:4f6ef7&height=140&section=header&descAlignY=85&descSize=13&descColor=8899cc" />
 
 <br/>
 
 <div align="center">
 
 <br/>
+
+### lacedsc3ne
 
 ![C++](https://img.shields.io/badge/C%2B%2B-4f6ef7?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0d0d14)
 ![DirectX 11](https://img.shields.io/badge/DirectX_11-4f6ef7?style=flat-square&logo=microsoft&logoColor=white&labelColor=0d0d14)
