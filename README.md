@@ -19,6 +19,7 @@
 
 <p> Windows macro with a custom DirectX 11 UI<br/>
 <sub>multi-output · clicking modes · game profiles · macro recorder · 10,000 CPS</sub></p>
+<sub>License key needed</sub></p>
 
 <br/>
 
